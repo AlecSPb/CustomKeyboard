@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseKeyboard">
+
+        <attr name="keyboardBackground" format="color" />
+        <attr name="keyBackground" format="color" />
+
+    </declare-styleable>
+</resources>
